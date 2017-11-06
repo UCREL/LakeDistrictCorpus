@@ -1,0 +1,436 @@
+
+
+<text id="1835_a">
+
+<!--This transcription digitised by Kirsten Hansen when she was an intern at Lancaster. It follows the Mapping the Lakes project DTD and so uses slightly different tags to most of the other texts in the corpus.
+In particular:
+
+There are no <pb/>, <gap>, <head>, <chap>, or footnote tags
+The original <my_comment> tags (added by Kirsten Hansen when she was trascribing) from Mapping the Lakes have been changed into comments.
+The Mapping the Lakes tag <format> have been converted into <i> or <b> respectively (except there were no <b>s)
+The Mapping the Lakes <tour> has been turned into <text>
+<paragraph> has been converted to just <p>
+<title> has been converted to <head level="2" align="center">
+
+
+The following tags from the Mapping the Lakes have been removed:
+   <section>
+   <sub_section>
+   <letter_head>
+   <addressee>
+   <day>
+   <date>
+   <start_place>
+   <end_place>
+   <ed_comment> The text within these tags has also been removed except where it explained a place name in which case it has been included in a comment.
+
+
+ The following tags from Mapping the Lakes have been retained but are not part of the Spatial Humanities markup.
+    <person> - flags a person's name
+	<cdplace> - flags a place name. 
+
+
+-->
+
+<!--(c) Ian Gregory and Kirsten Hansen-->
+
+
+
+<head level="2" align="center">Directions and Information for the Tourist</head>
+
+
+<!--<sub_section>-->
+<head level="2" align="center">Directions and Information for the Tourist</head>
+<p>In preparing this Manual, it was the Author's principal wish to furnish a Guide or Companion for the <i>Minds</i> of Persons of taste, 
+and feeling for Landscape, who might be inclined to explore the District of the Lakes with that degree of attention to which its beauty may fairly lay claim. 
+For the more sure attainment, however, of this primary object, he will begin by undertaking the humble and tedious task of supplying the Tourist with directions how to 
+approach the several scenes in their best, or most convenient, order. But first, supposing the approach to be made from the south, and through 
+<cdplace visited='N'>Yorkshire</cdplace>, there are certain interesting spots which may be confidently recommended to his notice, if time can be spared before entering
+upon the <cdplace visited='N'>Lake District</cdplace>; and the route may be changed before returning.</p>
+
+<p>There are three approaches to the <cdplace visited='N'>Lakes</cdplace> through <cdplace visited='N'>Yorkshire</cdplace>; the least adviseable is the great north road by
+<cdplace visited='N'>Catterick</cdplace> and <cdplace visited='N'>Greta Bridge</cdplace>, and onwards to <cdplace visited='N'>Penrith</cdplace>. The Traveller, however, taking
+this route, might halt at <cdplace visited='N'>Greta Bridge</cdplace>, and be well recompenced if he can afford to give an hour or two to the banks of the 
+<cdplace visited='N'>Greta</cdplace>, and of the Tees, at <cdplace visited='N'>Rokeby</cdplace>. <cdplace visited='N'>Barnard Castle</cdplace> also, about two miles up the Tees,
+is a striking object, and the main <cdplace visited='N'>North Road</cdplace> might be rejoined at <cdplace visited='N'>Bowes</cdplace>. Everyone has heard of the great fall of 
+the Tees above <cdplace visited='N'>Middleham</cdplace>, interesting for its grandeur, as the avenue of rocks that leads to it, is to the geologist <!--Is this a 
+lead-in to the essay on geology later in the guide?-->. But this place lies so far out of the way as scarcely to be within the compass of our notice. It might, 
+however, be visited by a Traveller on foot, or on horseback, who could rejoin the main road upon <cdplace visited='N'>Stanemoor</cdplace>.</p>
+
+<p>The second road leads through a more interesting tract of the country, beginning at <cdplace visited='N'>Ripon</cdplace>, from which place see <cdplace visited='N'>
+Fountain's Abbey</cdplace>, and thence by <cdplace visited='N'>Hackfall</cdplace>, and <cdplace visited='N'>Masham</cdplace>, to <cdplace visited='N'>Jervaux Abbey</cdplace>,
+and up the vale of <cdplace visited='N'>Wensley</cdplace>; turning aside before <cdplace visited='N'>Askrigg</cdplace> is reached, to see <cdplace visited='N'>Aysgarth-force
+</cdplace>, upon the <cdplace visited='N'>Ure</cdplace>; and again, near <cdplace visited='N'>Hawes</cdplace>, to <cdplace visited='N'>Hardraw Scar</cdplace>, of which, with 
+its waterfall, <person met='N'>Turner</person> has a fine drawing. Thence over the fells to <cdplace visited='N'>Sedbergh</cdplace>, and <cdplace visited='N'>Kendal</cdplace>.
+</p>
+
+<p>The third approach from <cdplace visited='N'>Yorkshire</cdplace> is through <cdplace visited='N'>Leeds</cdplace>. Four miles beyond that town are the ruins of 
+<cdplace visited='N'>Kirkstall Abbey</cdplace>, should that road to <cdplace visited='N'>Skipton</cdplace> be chosen; but the other by <cdplace visited='N'>otley</cdplace>
+may be made much more interesting by turning off at <cdplace visited='N'>Addington</cdplace> to <cdplace visited='N'>Bolton Bridge</cdplace>, for the sake of visiting the
+<cdplace visited='N'>Abbey</cdplace> <!--Bolton Abbey?--> and grounds. It would be well, however, for a party previously to secure beds, if wanted, at the
+inn, as there is but one, and it is much resorted to in the summer. </p>
+
+<p>The Traveller on foot, or on horseback, would do well to follow the banks of the <cdplace visited='N'>Wharf</cdplace> upwards, to <cdplace visited='N'>Burnsall</cdplace>, and thence cross over the hills to <cdplace visited='N'>Gordale</cdplace>- a noble scene, beautifully described in 
+<person met='N'>Grey's</person> Tour, and with which no one can be disappointed. Thence to <cdplace visited='N'>Malham</cdplace>, where there is a respectable village inn, and 
+so on, by <cdplace visited='N'>Malham Cove</cdplace>, to <cdplace visited='N'>Settle</cdplace>.</p>
+
+<p>Travellers in carriages must go from <cdplace visited='N'>Bolton Bridge</cdplace> to <cdplace visited='N'>Skipton</cdplace>, where they rejoin the main road; and should
+they be inclined to visit <cdplace visited='N'>Gordale</cdplace> a tolerable road turns off beyond <cdplace visited='N'>Skipton</cdplace>. Beyond 
+<cdplace visited='N'>Settle</cdplace>, under <cdplace visited='N'>Giggleswick Scar</cdplace>, the road passes an ebbing and flowing well, worthy the notice of the Naturalist.
+Four miles to the right of <cdplace visited='N'>Ingleton</cdplace>, is <cdplace visited='N'>Weathercote Cave</cdplace>, a fine object, but whoever diverges for this, must return
+to <cdplace visited='N'>Ingleton</cdplace>. Near <cdplace visited='N'>Kirkby Lonsdale</cdplace> observe the view from the bridge over the <cdplace visited='N'>Lune</cdplace>, and descend to the channel of the river, and by no means omit looking at the 
+<cdplace visited='N'>Vale of Lune</cdplace> from the Church-yard.</p>
+
+<p>The journey towards the lake country through <cdplace visited='N'>Lancashire</cdplace>, is, with the exception of the <cdplace visited='N'>Vale of the Ribble</cdplace>, at 
+<cdplace visited='N'>Preston</cdplace>, uninteresting; till you come near <cdplace visited='N'>Lancaster</cdplace>, and obtain a view of the fells and mountains of 
+<cdplace visited='N'>Lancashire</cdplace> and <cdplace visited='N'>Westmoreland</cdplace>; with <cdplace visited='N'>Lancaster Castle</cdplace>, and the Tower of the Church 
+seeming to make part of the Castle, in the foreground.</p>
+
+<p>They who wish to see the celebrated ruins of <cdplace visited='N'>Furness Abbey</cdplace>, and are not afraid of crossing the Sands, may go from 
+<cdplace visited='N'>Lancaster</cdplace> to <cdplace visited='N'>Ulverston</cdplace>; from which place take the direct road to <cdplace visited='N'>Dalton</cdplace>; but 
+by all means return through <cdplace visited='N'>Urswick</cdplace>, for the sake of the view from the top of the hill, before descending into the grounds of 
+<cdplace visited='N'>Conishead Priory</cdplace>. From this quarter the Lakes would be advantageously approached by <cdplace visited='N'>Coniston</cdplace>; thence to
+<cdplace visited='N'>Hawkshead</cdplace>, and by the Ferry over <cdplace visited='N'>Windermere</cdplace>, to <cdplace visited='N'>Bowness</cdplace>: a much better
+introductio than by going direct from <cdplace visited='N'>Coniston</cdplace> to <cdplace visited='N'>Ambleside</cdplace>, which ought not to be done, as that would greatly
+ take off from the effect of <cdplace visited='N'>Windermere</cdplace>.</p>
+
+<p>Let us now go back to <cdplace visited='N'>Lancaster</cdplace>. The direct road thence to <cdplace visited='N'>Kendal</cdplace> is 22 miles, but by making a circuit of 
+eight miles, the <cdplace visited='N'>Vale of the Lune</cdplace> to <cdplace visited='N'>Kirksby Lonsdale</cdplace> will be included. The whole tract is pleasing; there is one
+view mentioned by <person met='N'>Gray</person> and <person met='N'>Mason</person> especially so. In West's Guide it is thus pointed out:-"About a quarter of a mile beyond the 
+third mile-stone, where the road makes a turn to the right, there is a gate on the left which leads into a field where the station meant, will be found." Thus far for those 
+who approach the Lakes from the South.</p>
+
+<p>Travellers from the North would do well to go from <cdplace visited='N'>Carlisle</cdplace> by <cdplace visited='N'>Wigton</cdplace>, and proceed along the
+<cdplace visited='N'>Lake of Bassenthwaite</cdplace> to <cdplace visited='N'>Keswick</cdplace>; or, if convenience should take them first to <cdplace visited='N'>Penrith</cdplace>
+, it would still be better to cross the country to <cdplace visited='N'>Keswick</cdplace>, and begin with that vale, rather than with <cdplace visited='N'>Ulswater</cdplace>.
+It is worthwhile to mention, in this place, that the banks of the <cdplace visited='N'>river Eden</cdplace>, about <cdplace visited='N'>Corby</cdplace>, are well worthy of notice,
+both on account of their natural beauty, and the viaducts which have recently been carried over the bed of the river, and over a neighbouring ravine. In the 
+<cdplace visited='N'>Church of Wetheral</cdplace>, close by, is a fine piece of monumental sculpture by <person met='N'>Nollekens</person>. The scenes of 
+<cdplace visited='N'>Nunnery</cdplace>, upon the <cdplace visited='N'>Eden</cdplace>, or rather than part of them which is upon <cdplace visited='N'>Croglin</cdplace>, 
+a mountain stream there falling into the <cdplace visited='N'>Eden</cdplace>, are, in their way, unrivalled. But the nearest road thither, from 
+<cdplace visited='N'>Corby</cdplace>, is so bad, that no one can be advised to take it in a carriage. <cdplace visited='N'>Nunnery</cdplace> may be reached by 
+<cdplace visited='N'>Corby</cdplace> by making a circuit and crossing the <cdplace visited='N'>Eden</cdplace> at <cdplace visited='N'>Armathwaite bridge</cdplace>. A portio nof 
+this road, however, is bad enough.</p>
+
+<p>As much  the greatest number of Lake Tourists begin by passing from <cdplace visited='N'>Kendal</cdplace> to <cdplace visited='N'>Bowness</cdplace>, upon 
+<cdplace visited='N'>Windermere</cdplace>, our notices shall commence from that Lake. <cdplace visited='N'>Bowness</cdplace> is situated upon its eastern side, and at equal 
+distance from each extremity of the Lake of</p><!--</sub_section>-->
+
+<!--<sub_section>--><head level="2" align="center"><cdplace visited='N'>Windermere</cdplace></head>
+<p>The lower part of this Lake is rarely visited, but has many interesting points of view, especially at <cdplace visited='N'>Storrs Hall</cdplace> and at 
+<cdplace visited='N'>Fell-Foot</cdplace>, where the <cdplace visited='N'>Coniston Mountains</cdplace> peer nobly over the western barrier, which elsewhere, along the whole Lake,
+is comparatively tame. To one also who has ascended the hill from <cdplace visited='N'>Graythwaite</cdplace> on the Western side, the Promontory called 
+<cdplace visited='N'>Rawlinson's Nabb</cdplace>, <cdplace visited='N'>Storrs Hall</cdplace>, and the <cdplace visited="N">Troutbeck Mountains</cdplace>, about sun-set, make a splendid landscape.
+The view from the Pleasure-house of the Station near the Ferry has suffered much from Larch plantations; this mischief, however, is gradually disappearing, and the Larches,
+under the management of the proprietor, <person met='N'>Mr. Curwen</person>, are giving way to the native wood. <cdplace visited='N'>Windermere</cdplace> ought to be seen both
+from its shores and from its surface. None of the other Lakes unfold so many fresh beauties to him who sails upon them. This is owing to its greater size, to the islands, and
+to its having <i>two</i> vales at the head, with their accompanying mountains of nearly equal dignity. Nor can the grandeur of these two terminations
+be seen at once from any point, except from the bosom of the Lake. The Islands may be explored at any time of the day; but one bright unruffled evening, must, if possible,
+be set apart for the splendour, the stillness, and solemnity of a three hour's voyage upon the higher division of the Lake, no omitting, towards the end of the excursion, to 
+quit the expanse of water, and peep into the close and calm River at the head; which, in its quiet character, at such a time, appears rather like an overflow of the peaceful
+Lake itself, than to have any more immediate connection with the rough mountains whence it has descended, or the turbulent torrents by which it is supplied. Many persons
+content themselves with what they see of <cdplace visited='N'>Windermere</cdplace> during their progress in a boat from <cdplace visited='N'>Bowness</cdplace> to the head of the 
+Lake, walking thence to <cdplace visited='N'>Ambleside</cdplace>. But the whole road from <cdplace visited='N'>Bowness</cdplace> is rich in diversity of pleasing or grand scenery;
+there is scarcely a field on the road side, which, if entered, would not give the landscape some additional charm. <!--<inn inn_visited='N'>-->Low-wood Inn<!--</inn>-->, a mile from the head
+of <cdplace visited='N'>Windermere</cdplace>, is a most pleasant halting-place; no inn in the whole district is so agreeably situated for water views and excursions; and the 
+fields above it, and the lane that leads to <cdplace visited='N'>Troutbeck</cdplace>, present beautiful views towards each extremity of the Lake. From this place, and from
+</p><!--</sub_section>-->
+
+<!--<sub_section>--><head level="2" align="center"><cdplace visited='N'>Ambleside</cdplace>,</head>
+
+<p>Rides may be taken in numerous directions, and the interesting walks are inexhaustible;a few out of the main road may be particularized;- the lane that leads from 
+<cdplace visited='N'>Ambleside</cdplace> to <cdplace visited='N'>Skelgill</cdplace>; the ride, or walk by <cdplace visited='N'>Rothay Bridge</cdplace>, and up the stream under
+<cdplace visited='N'>Loughrigg Fell</cdplace>, continued on the western side of <cdplace visited='N'>Rydal Lake</cdplace>, and along the fell to the foot of 
+<cdplace visited='N'>Grasmere Lake</cdplace>, and thence round by the church of <cdplace visited='N'>Grasmere</cdplace>; or, turning round by <cdplace visited='N'>Loughrigg Fell
+</cdplace> by <cdplace visited='N'>Loughrigg Tarn</cdplace> and the <cdplace visited='N'>River Brathay</cdplace> back to <cdplace visited='N'>Ambleside</cdplace>. From 
+<cdplace visited='N'>Ambleside</cdplace> is another charming excursion by <cdplace visited='N'>Clappersgate</cdplace>, where cross the <cdplace visited='N'>Brathay</cdplace>, and 
+proceed with the river on the right to the hamlet of <cdplace visited='N'>Skelwith-fold</cdplace>; when the houses are passed, turn, before you descend the hill, through a 
+gate on the right, and from a rocky point is a fien view of the <cdplace visited='N'>Brathay River</cdplace>, <cdplace visited='N'>Langdale Pikes</cdplace>, etc.; then proceed
+to <cdplace visited='N'>Colwith-force</cdplace>, and up <cdplace visited='N'>Little Langdale</cdplace> to <cdplace visited='N'>Blea Tarn</cdplace>. The scene in which this small
+piece of water lies, suggested to the Author the following description, (given in his Poem of the Excursion) supposing the spectator to look down upon it, not from the road,
+but from one of its elevated sides. </p>
+
+<poem>
+<stanza>
+<line>Behold!</line>
+<line>Beneath our feet, a little lowly Vale,</line>
+<line>A lowly Vale, and yet uplifted high</line>
+<line>Among the mountains; even as if the spot</line>
+<line>Had been, from eldest by wish of theirs,</line>
+<line>So placed, to be shut out from all the world!</line>
+<line>Urn-like it was in shape, deep as an Urn</line>
+<line>With rocks encompasses, save that to the South</line>
+<line>Was one small opening, where a heath-clad ridge</line>
+<line>Supplied a boundary less abrupt and close;</line>
+<line>A quiet treeless nook, with two green fields</line>
+<line>A liquid pool that glittered in the sun, </line>
+<line>And one bare Dwelling; one Abode, no more!</line>
+<line>It seemed the home of poverty and toil,</line>
+<line>Though not of want: the little fields, made green</line>
+<line>By husbandry of many thirty years,</line>
+<line>Paid cheerful tribute to the moorland House.</line>
+<line>-There crows the Cock, single in his domain:</line>
+<line>The small birds find in spring no thicket there</line>
+<line>To shroud them; only from the neighbouring Vales</line>
+<line>The Cuckoo, straggling up to the hill tops,</line>
+<line>Shouteth faint tidings of some gladder place.</line>
+</stanza>
+</poem>
+
+<p>From this little Vale return towards <cdplace visited='N'>Ambleside</cdplace> by <cdplace visited='N'>Great Langdale</cdplace>, stopping, if there be time, to see the 
+<cdplace visited='N'>Dungeon-ghyll</cdplace> waterfall.</p><!--</sub_section>--> 
+
+<!--<sub_section>--><head level="2" align="center"><cdplace visited='N'>The Lake of Coniston</cdplace></head>
+
+<p>May be conveniently visited from <cdplace visited='N'>Ambleside</cdplace>, but is seen to most advantage by entering the country over the Sands from 
+<cdplace visited='N'>Lancaster</cdplace>. The Stranger, from the moment he sets his foot on those Sands, seems to leave the turmoil and traffic of the world behind him; and,
+crossing the majestic plain whence the sea has retired, he beholds, rising apparently from its base, the cluster of mountains among which he is going to wander, and towards
+whose recesses, by the <cdplace visited='N'>Vale of Coniston</cdplace>, he is gradually and peacefully led. From the Inn at the head of <cdplace visited='N'>Coniston Lake</cdplace>,
+a leisurely Traveller might have much pleasure in looking into <cdplace visited='N'>Yewdale</cdplace> and <cdplace visited='N'>Tilberthwaite</cdplace>, returning to his 
+Inn from the head of <cdplace visited='N'>Yewdale</cdplace> by a mountain track which has the farm of <cdplace visited='N'>Tarn Hows</cdplace>, a little on 
+the right: by this road is seen much the best view of <cdplace visited='N'>Coniston Lake</cdplace> from the south. At the head of <cdplace visited='N'>Coniston Water</cdplace> 
+there is an agreeable Inn, from which an enterprising Tourist might go to the <cdplace visited='N'>Vale of the Duddon</cdplace>, over 
+<cdplace visited='N'>walna Scar</cdplace>, down to <cdplace visited='N'>Seathwaite</cdplace>, <cdplace visited='N'>Newfield</cdplace>, and to the rocks where the river issues from
+a narrow pass into the broad Vale. The stream is very interesting for the space of a mile above this point, and below, by <cdplace visited='N'>Ulpha Kirk</cdplace>, till it
+enters the Sands, where it is overlooked by the solitary <cdplace visited='N'>Mountain Black Comb</cdplace>, the summit of which, as that experienced surveyor,
+<person met='N'>Colonel Mudge</person>, declared, commands a more extensive view than any other point in Britain. Ireland he saw more than once, but not when the sun was above
+the horizen.</p>
+
+<poem>
+<stanza>
+<line>Close by the Sea,lone sentinel,</line>
+<line><cdplace visited='N'>Black-Comb</cdplace> his forward station keeps;</line>
+<line>He breaks the sea's tumultuous swell,-</line>
+<line>And ponders o'er the level deeps.</line>
+</stanza>
+
+<stanza>
+<line>He listens to the bugle horn,</line>
+<line>Where <cdplace visited='N'>Eskdale's</cdplace> lovely valley bends;</line>
+<line>Eyes <cdplace visited='N'>Walney's</cdplace> early fields of corn;</line>
+<line>Sea-birds to <cdplace visited='N'>Holker's</cdplace><!--I think this is a place- it might be a person-->woods he sends.</line>
+</stanza>
+
+<stanza>
+<line>Beneath his feet the sunk ship rests,</line>
+<line>In <cdplace visited='N'>Duddon Sands</cdplace>, its masts all bare:</line>
+<line> * * *<!-->Not sure how to put those in (pg.161)--></line>
+<line><i>The Minstrels of Windermere</i>, by Chas. Farish, B.D.</line>
+</stanza>
+</poem>
+
+<p>The Tourist may either return to the Inn at <cdplace visited='N'>Coniston</cdplace> by <cdplace visited='N'>Broughton</cdplace>, or, by turning to the left before he comes
+to that town, or, which would be much better, he may cross from</p>
+<!--</sub_section>-->
+
+<!--<sub_section>-->
+<head level="2" align="center"><cdplace visited='N'>Ulpha Kirk</cdplace></head>
+
+<p>Over <cdplace visited='N'>Birker moor</cdplace>, to <cdplace visited='N'>Birker-force</cdplace>, at the head of the finest ravine in the country; and thence up the 
+<cdplace visited='N'>Vale of the Esk</cdplace>, by <cdplace visited='N'>Hardknot</cdplace> and <cdplace visited='N'>Wrynose</cdplace>, back to <cdplace visited='N'>Ambleside</cdplace>.
+Near the road, ascending from <cdplace visited='N'>Eskdale</cdplace>, are conspicuous remains of a Roman fortress. Details of the <cdplace visited='N'>Duddon</cdplace> and
+<cdplace visited='N'>Donnerdale</cdplace> are given in the Author's series of Sonnets upon the <cdplace visited='N'>Duddon</cdplace> and in the accompanying Notes. In addition to 
+its two Vales at its head, <cdplace visited='N'>Windermere</cdplace>communicates with two lateral vallies; that of <cdplace visited='N'>Troutbeck</cdplace>, distinguished by the 
+mountains at its head- by the picturesque remains of cottaget architecture; and, towards the lower part, by bold foregrounds formed by the steep and winding banks of the 
+river. This Vale, as before mentioned, may be most conveniently seen from <cdplace visited='N'>Low Wood</cdplace>. The other lateral Valley, that of 
+<cdplace visited='N'>Hawkshead</cdplace>, is visited to most advantage, and most conveniently, from <cdplace visited='N'>Bowness</cdplace>; crossing the Lake by the Ferry- then
+pass the two villages of <cdplace visited='N'>Sawrey</cdplace>, and on quitting the latter, you have a fine view of the <cdplace visited='N'>Lake of Esthwaite</cdplace>, and the
+cone of one of the <cdplace visited='N'>Langdale Pikes</cdplace> in the distance.</p>
+
+<p>Before you leave <cdplace visited='N'>Ambleside</cdplace> give three minutes to looking at a passage of the brook which runs through the town; it is seen from a garden
+on the right bank of the stream, a few steps above the bridge- the garden at present is rented by <person met='N'>Mrs. Airey</person>.-<cdplace visited='N'>Stockgill-force</cdplace>,
+upon the same stream, will have been mentioned to you as one of the sights of the neighbourhood. And by a Tourist halting a few days in <cdplace visited='N'>Ambleside</cdplace>,
+the <i>Nook</i> also might be visited; a spot where there is a bridge over <cdplace visited='N'>Scandale-beck</cdplace>, which makes a pretty subject
+for the pencil. Lastly, for residents of a week or so at <cdplace visited='N'>Ambleside</cdplace>, there are delightful rambles over every part of 
+<cdplace visited='N'>Loughrigg Fell</cdplace> and among the enclosures on its sides; particularly about <cdplace visited='N'>Loughrigg Tarn</cdplace>, and on its eastern side
+about <cdplace visited='N'>Fox How</cdplace> and the properties adjoining to the northwards.</p>
+<!--</sub_section>-->
+
+<!--<sub_section>--><head level="2" align="center">Road from <cdplace visited='N'>Ambleside</cdplace> to <cdplace visited='N'>Keswick</cdplace></head>
+
+<p>The Waterfalls of <cdplace visited='N'>Rydal</cdplace> are pointed out to every one. But it ought to be observed here, that <cdplace visited='N'>Rydal-mere</cdplace> is 
+no where seen to advantage from the <i>main road</i>. Fine views of it may be had from <cdplace visited='N'>Rydal Park</cdplace>; but these grounds, as
+well as those of <cdplace visited='N'>Rydal Mount</cdplace> and <cdplace visited='N'>Ivy Cottage</cdplace>, from which it is viewed to advantage, are private. A foot road passing
+behind <cdplace visited='N'>Rydal Mount</cdplace> and under <cdplace visited='N'>Nab Scar</cdplace> to <cdplace visited='N'>Grasmere</cdplace>, is very favourable to views of the 
+Lake and the Vale, looking back towards <cdplace visited='N'>Ambleside</cdplace>. The horse road also, along the western side of the Lake, under 
+<cdplace visited='N'>Loughrigg fell</cdplace>, as before mentioned, does justice to the beauties of this small mere, of which the Traveller who keeps to the high road is not 
+at all aware</p>
+<!--</sub_section>-->
+
+<!--<sub_section>--><head level="2" align="center"><cdplace visited='N'>Grasmere</cdplace></head>
+
+<p>There are two small Inns in the Vale of <cdplace visited='N'>Grasmere</cdplace>, one near the Church, from which it may be conveniently explored in every direction, and 
+a mountain walk taken up <cdplace visited='N'>Easedale</cdplace> to <cdplace visited='N'>Easedale Tarn</cdplace>, one of the finest tarns in the country, thence to 
+<cdplace visited='N'>Stickle Tarn</cdplace>, and to the top of <cdplace visited='N'>Langdale Pikes</cdplace>. See also the Vale of <cdplace visited='N'>Grasmere</cdplace> from
+<cdplace visited='N'>Butterlip How</cdplace>. A boat is kept by the innkeeper, and this circular Vale, in the solemnity of a fine evening, will make, from the bosom of the 
+Lake, an impression that will scarcely ever effaced.</p>
+
+<p>The direct road from <cdplace visited='N'>Grasmere</cdplace> to <cdplace visited='N'>Keswick</cdplace> does not (as has been obseerved of <cdplace visited='N'>Rydal Mere</cdplace>)
+shew to advantage <cdplace visited='N'>Thirlmere</cdplace>, or <cdplace visited='N'>Wythburn Lake</cdplace>, with its surrounding mountains. By a Traveller proceeding at leisure,
+a little deviation ought to be made from the main road, when he has advanced a little beyond the sixth mile-stone short of <cdplace visited='N'>Keswick</cdplace>, from 
+which point there is a noble view of the <cdplace visited='N'>Vale of Legberthwaite</cdplace>, with <cdplace visited='N'>Blencathra</cdplace> (commonly called 
+<cdplace visited='N'>Saddle-back</cdplace>) in front. Having previously enquired, at the Inn near <cdplace visited='N'>Wythburn Chapel</cdplace>, the best way from this mile-stone
+to the bridge that divides the Lake, he must cross it, and proceed with the Lake on the right, to the hamlet a little beyond its termination, and rejoin the main road upon
+<cdplace visited='N'>Shoulthwaite Moss</cdplace>, about four miles from <cdplace visited='N'>Keswick</cdplace>; or, if on foot, the Tourist may follow the stream that issues
+from <cdplace visited='N'>Thirlmere</cdplace> down the romantic <cdplace visited='N'>Vale of St. John's</cdplace>, and so (enquiring the way at some cottage) to 
+<cdplace visited='N'>Keswick</cdplace>, by a circuit of little more than a mile. A more interesting tract of country is scarcely any where to be seen, than the road between
+<cdplace visited='N'>Ambleside</cdplace> and <cdplace visited='N'>Keswick</cdplace>, with the deviations that have been pointed out. <cdplace visited='N'>Helvellyn</cdplace> may
+be conveniently ascended from the Inn at <cdplace visited='N'>Wythburn</cdplace>.</p>
+<!--</sub_section>-->
+
+<!--<sub_section>--><head level="2" align="center"><cdplace visited='N'>The Vale of Keswick</cdplace></head>
+
+<p>This Vale stretches, without winding, nearly North and South, from the head of <cdplace visited='N'>Derwent Water</cdplace> to the foot of 
+<cdplace visited='N'>Bassenthwaite Lake</cdplace>. It communicates with <cdplace visited='N'>Borrowdale</cdplace> on the South; with the river <cdplace visited='N'>Greta</cdplace>,
+and <cdplace visited='N'>Thirlmere</cdplace>, on the East, with which the Traveller has become acquainted on his way from <cdplace visited='N'>Ambleside</cdplace>; and with the
+<cdplace visited='N'>Vale of Newlands</cdplace> on the West- which last Vale he may pass through, in going to, or returning from, <cdplace visited='N'>Buttermere</cdplace>. The
+best views of <cdplace visited='N'>Keswick Lake</cdplace> are from <cdplace visited='N'>Crow Park</cdplace>; <cdplace visited='N'>Frier's Crag</cdplace>;the Stable-field, close by;
+the Vicarage, and from various points in taking the circuit of the Lake. More distant views, and perhaps full as interesting, are from the side of 
+<cdplace visited='N'>Latrigg</cdplace>, from <cdplace visited='N'>Ormathwaite</cdplace>, and <cdplace visited='N'>Applethwaite</cdplace>; and thence along the road at the foot of 
+<cdplace visited='N'>Skiddaw</cdplace> towards <cdplace visited='N'>Bassenthwaite</cdplace>, for about a quarter of a mile. There are fine bird's eye views from the Castle-hill;
+from <cdplace visited='N'>Ashness</cdplace>, on the road to <cdplace visited='N'>Watenlath</cdplace>, and by following the <cdplace visited='N'>Watenlath</cdplace> stream downwards
+to the <cdplace visited='N'>Cataract of Lodore</cdplace>. This Lake also, if the weather be fine, ought to be circumnavigated. There are good views along the western side of 
+<cdplace visited='N'>Bassenthwaite Lake</cdplace>, and from <cdplace visited='N'>Armathwaite</cdplace> at its foot; but the eastern side from the high road has little to 
+recommend it. The Traveller from <cdplace visited='N'>Carlisle</cdplace>, approaching by way of <cdplace visited='N'>Ireby</cdplace>, has, from the old road on the top of 
+<cdplace visited='N'>bassenthwaite-hawse</cdplace>, much the most striking view of the Plain and Lake of <cdplace visited='N'>Bassenthwaite</cdplace>, flanked by 
+<cdplace visited='N'>Skiddaw</cdplace>, and terminated by <cdplace visited='N'>Wallowcrag</cdplace> on the south-east of <cdplace visited='N'>Derwent Lake</cdplace>; the same
+point commands an extensive view of <cdplace visited='N'>Solway Firth</cdplace> and the <cdplace visited='N'>Scotch Mountains</cdplace>. They who take the circuit of 
+<cdplace visited='N'>Derwent Lake</cdplace>, may at the same time include <cdplace visited='N'>BORROWDALE</cdplace>, going as far as <cdplace visited='N'>Bowderstone</cdplace>,
+or <cdplace visited='N'>Rosthwaite</cdplace>. <cdplace visited='N'>Borrowdale</cdplace> is also conveniently seen on the way to <cdplace visited='N'>Wastdale</cdplace> over
+<cdplace visited='N'>Styhead</cdplace>; or, to <cdplace visited='N'>Buttermere</cdplace>, by <cdplace visited='N'>Seatoller</cdplace> and <cdplace visited='N'>Honister Crag</cdplace>;
+or, going over the Stake, through <cdplace visited='N'>Langdale</cdplace>, to <cdplace visited='N'>Ambleside</cdplace>. <cdplace visited='N'>Buttermere</cdplace> may be visited by a 
+shorter way through <cdplace visited='N'>Newlands</cdplace>, but though the descent upon the Vale of <cdplace visited='N'>Buttermere</cdplace>, by this approach, is very striking,
+as it also is to one entering by the head of the Vale, under <cdplace visited='N'>Honister Crag</cdplace>, yet, after all, the best entrance from <cdplace visited='N'>Keswick</cdplace>
+is from the lower part of the Vale, having gone over <cdplace visited='N'>Whinlater</cdplace> to <cdplace visited='N'>Scale Hill</cdplace>, where there is a roomy Inn, with very
+good accommodation. The Mountains of the Vale of </p>
+<!--</sub_section>-->
+
+<!--<sub_section>--><head level="2" align="center"><cdplace visited='N'>Buttermere</cdplace> and <cdplace visited='N'>Crummock</cdplace></head>
+
+<p>Are no where so impressive as from the bosom of <cdplace visited='N'>Crummock Water</cdplace>. <cdplace visited='N'>Scale-force</cdplace>, near it, is a fine chasm, with a 
+lofty, though but slender fall of water.</p>
+
+<p>From <cdplace visited='N'>Scale Hill</cdplace> a pleasant walk may be taken to an eminence in <person met='N'>Mr. Marshall's</person> woods, and another by crossing the 
+bridge at the foot of the hill, upon which the Inn stands, and turning to the right, after the opposite hill has been ascended a little way, then follow the road for half a 
+mile or so that leads to <cdplace visited='N'>Lorton</cdplace>, looking back upon <cdplace visited='N'>Crummock Water</cdplace>, etc., between the openings of the fences. Turn 
+back and may your way to</p>
+<!--</sub_section>-->
+
+<!--<sub_section>--><head level="2" align="center"><cdplace visited='N'>Loweswater</cdplace></head>
+
+<p>But this small Lake is only approached to advantage from the other end; therefore any Traveller going by this road to <cdplace visited='N'>Wastdale</cdplace>, must look 
+back upon it. This road to <cdplace visited='N'>Wastdale</cdplace>, after passing the village of <cdplace visited='N'>Lamplugh Cross</cdplace>, presents suddenly a fine view of
+the <cdplace visited='N'>Lake of Ennerdale</cdplace>, with its Mountains; and, six or seven miles beyond, leads down upon <cdplace visited='N'>Calder Abbey</cdplace>. Little of
+this ruin is left, but that little is well worthy of notice. At <cdplace visited='N'>Calder Bridge</cdplace> are two comfortable Inns, and, a few miles beyond, accomodations 
+may be had at the <cdplace visited='N'>Strands</cdplace><!--Is this an Inn?-->, at the foot of <cdplace visited='N'>Wastdale</cdplace>. Into</p>
+<!--</sub_section>-->
+
+<!--<sub_section>--><head level="2" align="center"><cdplace visited='N'>Wastdale</cdplace></head>
+
+<p>Are three horse-roads, viz. over the <cdplace visited='N'>Stye</cdplace> from <cdplace visited='N'>Borrowdale</cdplace>; a short cut from <cdplace visited='N'>Eskdale</cdplace>
+by <cdplace visited='N'>Burnmoor Tarn</cdplace>, which road descends upon the head of the Lake; and the principal entrance from the open country by the 
+<cdplace visited='N'>Strands</cdplace> at its foot. This last is much the best approach. <cdplace visited='N'>Wastdale</cdplace> is well worth the notice of a Traveller who is
+not afraid of fatigue; no part of the country is more distinguished by sublimity. <cdplace visited='N'>Wastwater</cdplace> may also be visited from 
+<cdplace visited='N'>Ambleside</cdplace>; by going up <cdplace visited='N'>Langdale</cdplace>, over <cdplace visited='N'>Hardknot</cdplace> and <cdplace visited='N'>Wrynose</cdplace>-
+down <cdplace visited='N'>Eskdale</cdplace> and by <cdplace visited='N'>Irton Hall</cdplace> to the <cdplace visited='N'>Strands</cdplace>; but this road can only be taken on foot,
+or on horseback, or in a cart.</p>
+
+<p>We will conclude with</p>
+<!--</sub_section>-->
+
+<!--<sub_section>--><head level="2" align="center"><cdplace visited='N'>Ullswater</cdplace></head>
+
+<p>As being, perhaps, upon the whole, the happiest combination of beauty and grandeur, which any of the Lakes afford. It lies not more than ten miles from 
+<cdplace visited='N'>Ambleside</cdplace>, and the <cdplace visited='N'>Pass of Kirkstone</cdplace> and the descent from it are very impressive; but, notwithstanding, this Vale,
+like the others, loses much of its effect by being entered from the head: so that it is better to go from <cdplace visited='N'>Keswick</cdplace> through
+<cdplace visited='N'>Matterdale</cdplace>, and descend upon <cdplace visited='N'>Gowbarrow Park</cdplace>; you are thus brought at once upon a magnificent view of the two higher
+reaches of the Lake. <cdplace visited='N'>Ara-force</cdplace> thunders down the Ghyll on the left, at a small distance from the road. If <cdplace visited='N'>Ullswater</cdplace>
+be approached from <cdplace visited='N'>Penrith</cdplace>, a mile and a half brings you to the winding vale of <cdplace visited='N'>Eamont</cdplace>, and the prospects increase
+in interest till you reach <cdplace visited='N'>Patterdale</cdplace>; but the first four miles along <cdplace visited='N'>Ullswater</cdplace> by this road are comparatively tame;
+and in order to see the lower part of the Lake to advantage, it is necessary to go round by <cdplace visited='N'>Pooley Bridge</cdplace>, and to ride at least three miles along
+the <cdplace visited='N'>Westmorland</cdplace> side of the water, towards <cdplace visited='N'>Martindale</cdplace>. The views, especially if you ascend from the road into the 
+fields, are magnificent; yet this is only mentioned that the transient Visitant may know what exists; for it would be inconvenient to go in search of them. They who take this 
+course of three or four miles <i>on foot</i>, should have a boat in readiness at the end of the walk, to carry them across to the <cdplace visited='N'>
+Cumberland</cdplace> side of the Lake, near <cdplace visited='N'>Old Church</cdplace>, thence to pursue the road upwards to <cdplace visited='N'>Patterdale</cdplace>. The 
+Church-yard Yew-tree still survives at <cdplace visited='N'>Old Church</cdplace>, but there are no remains of a Place of Worship,a New Chapel having been erected in a more
+central situation, which Chapel was consecrated by the then <person met='N'>Bishop Carlisle</person>, when on his way to crown <person met='N'>Queen Elizabeth</person>, he being
+the only Prelate who would undertake the office. It may be mentioned here that <cdplace visited='N'>Bassenthwaite Chapel</cdplace> yet stands in a bay as sequestered as the 
+Site of the Old Church; such situations having been chosen in disturbed times to elude marauders.</p>
+
+<p>The Trunk, or Body of the Vale of <cdplace visited='N'>Ullswater</cdplace> need not be further noticed, as its beauties show themselves: but the curious Traveller may
+wish to know something of the tributary Streams.</p>
+
+<p>At <cdplace visited='N'>Dalemain</cdplace>, about three miles from <cdplace visited='N'>Penrith</cdplace>, a Stream is crossed called the <cdplace visited='N'>Dacre</cdplace>,
+or <cdplace visited='N'>Dacor</cdplace><!--Alternative spellings of the same stream- try both, only one will be correct-->, which name it bore as early as the 
+time of the <person met='N'>Venerable Bede</person>. This stream does not enter the Lake, but joins the <cdplace visited='N'>Eamont</cdplace> a mile below. It rises in the 
+moorish Country about <cdplace visited='N'>Penruddock</cdplace>, flows down a soft sequestered Valley, passing by the ancient mansions of <cdplace visited='N'>Hutton John</cdplace>
+<!-->I think this is a place rather than a person, but I'm not certain--> and <cdplace visited='N'>Dacre Castle</cdplace>. The former is pleasantly situated,
+though of a character somewhat gloomy and monastic, and from some of the fields near <cdplace visited='N'>Dalemain</cdplace>, <cdplace visited='N'>Dacre Castle</cdplace>, backed
+by the jagged summit of <cdplace visited='N'>Saddle-back</cdplace>, with the Valley and Stream in front, forms a grand picture. There is no other stream that conducts to any
+glen or valley worthy of being mentioned, till we reach that which leads up to <cdplace visited='N'>Ara-force</cdplace>, and thence into <cdplace visited='N'>Matterdale</cdplace>,
+before spoken of. <cdplace visited='N'>Matterdale</cdplace>, though a wild and interesting spot, has no peculiar features that would make it worth the Stranger's while to go in
+search of them; but, in <cdplace visited='N'>Gowbarrow Park</cdplace>, the lover of Nature might linger for hours. Here is a powerful Brook, which dashes among rocks through a 
+deep glen, hung on every side with a rich and happy intermixture of native wood; here are beds of luxuriant fern, aged hawthorns, and hollies decked with honeysuckles; and 
+fallow-deer glancing and bounding over the lawns and through the thickets. These are the attractions of the retired views, or constitute a foreground for ever-varying 
+pictures of the majestic Lake, forced to take a winding course by bold promontories, and environed by mountains of sublime form, towering above each other. At the outlet of
+<cdplace visited='N'>Gowbarrow Park</cdplace>, we reach a third stream, which flows through a little recess called <cdplace visited='N'>Glencoin</cdplace>, where lurks a single
+house, yet visible from the road. Let the Artist or leisurely Traveller turn aside to it, for the buildings and objects around them are romantic and picturesque. Having 
+passed under the steeps of <cdplace visited='N'>Styebarrow Crag</cdplace>, and the remains of its native woods, at <cdplace visited='N'>Glenridding Bridge</cdplace>, a fourth 
+stream is crossed.</p>
+
+<p>The opening on the side of <cdplace visited='N'>Ullswater Vale</cdplace>, down which this Stream flows, is adorned with fertile fields, cottages, and natural groves, that
+agreeably unite with the transverse views of the Lake; and the Stream, if followed up after the enclosures are left behind, will lead along bold water-breaks and waterfalls
+to a silent Tarn in the recesses of <cdplace visited='N'>Helvellyn</cdplace>. This desolate spot was formerly haunted by eagles, that built in the precipice that forms its
+western barrier. These birds used to wheel and hover round the head of the solitary angler. It also derives a meloncholy interest from the fate of a young man, a stranger, who
+perished some years ago, by falling down the rocks in his attempt to cross over to <cdplace visited='N'>Grasmere</cdplace>. His remains were discovered by means of a faithful
+dog that had lingered here for the space of three months, self-supported, and probably retaining to the last an attachment to the skeleton of its master. But to return to the 
+road in the main Vale of <cdplace visited='N'>Ullswater</cdplace>.-At the head of the Lake (being now in <cdplace visited='N'>Patterdale</cdplace>) we cross a fifth Stream,
+<cdplace visited='N'>Grisdale Beck</cdplace>: this would conduct through a woody steep, where there may be seen some unusually large ancient hollies, up to the level area of the 
+Valley of <cdplace visited='N'>Grisdale</cdplace>; hence there is a path for foot-travellers, and along which a horse may be led, to <cdplace visited='N'>Grasmere</cdplace>. A
+sublime combination of mountain forms appears in front while ascending the bed of this valley, and the impression increases till the path leads almost immediately under the 
+projecting masses of <cdplace visited='N'>Helvellyn</cdplace>. Having retraced the banks of the Stream to <cdplace visited='N'>Patterdale</cdplace>, and pursued the road up the 
+main Dale, the next considerable stream would, if ascended in the same manner, conduct to <cdplace visited='N'>Deep-dale</cdplace>, the character of which valley may be conjectured
+from its name. It is terminated by a cove, a craggy and gloomy abyss, with precipitous sides; a faithful receptacle of the snows that are driven into it, by the west wind, from
+the summit of <cdplace visited='N'>Fairfield</cdplace>. Lastly, having gone along the western side of <cdplace visited='N'>Brotherswater</cdplace> and passed
+<cdplace visited='N'>Hartsop Hall</cdplace>, a Stream soon issues from a cove richly decorated with native wood. This spot is, I believe, never explored by Travellers; but, 
+from these sylvan and rocky recesses, whoever looks back on the gleaming surface of <cdplace visited='N'>Brotherswater</cdplace>, or forward to the precipitous sides and lofty
+ridges of <cdplace visited='N'>Dove Crag</cdplace>, etc., will be equally pleased with the beauty, the grandeur, and the wildness of the scenery.</p>
+ 
+<p>Seven Glens or Vallies have been noticed, which branch off from the <cdplace visited='N'>Cumberland</cdplace> side of the Vale. The opposite side has only Streams of any
+importance, one of which would lead up from the point where it crosses the <cdplace visited='N'>Kirkstone-road</cdplace>, near the foot of <cdplace visited='N'>Brotherswater</cdplace>,
+to the decaying hamlet of <cdplace visited='N'>Hartsop</cdplace>, remarkable for its cottage architecture, and thence to <cdplace visited='N'>Haywater</cdplace>, much frequented
+by anglers. The other, coming down <cdplace visited='N'>Martindale</cdplace>, enters <cdplace visited='N'>Ullswater</cdplace> at <cdplace visited='N'>sandwyke</cdplace>, opposite
+to <cdplace visited='N'>Gowbarrow Park</cdplace>. No persons but such as come to <cdplace visited='N'>Patterdale</cdplace>, merely to pass through it, should fail to walk as far
+as <cdplace visited='N'>Blowick</cdplace>, the only enclosed land which on this side borders the higher part of the Lake. The axe has here indiscriminately levelled a rich 
+wood of birches and oaks, that divided this favoured spot into a hundred pictures. It has yet it land-locked bays, and rocky promontories; but those beautiful woods are gone,
+which <i>perfected</i> its seclusion; and scenes, that might formerly have been compared to an inexhaustible volume, are now spread before the eye in
+a single sheet,- magnificent indeed, but seemingly perused in a moment! From <cdplace visited='N'>Blowick</cdplace> a narrow track conducts along the craggy side of 
+<cdplace visited='N'>Place-fell</cdplace>, richly adorned with juniper, and sprinkled over with birches, to the village of <cdplace visited='N'>Sandwyke</cdplace>, a few straggling
+houses, that with the small estates attached to them, occupy an opening opposite to <cdplace visited='N'>Lyulph's Tower</cdplace> and <cdplace visited='N'>Gowbarrow Park</cdplace>.
+In <cdplace visited='N'>Martindale</cdplace>, the road loses sight of the Lake, and leads over a steep hill, bringing you again into view of <cdplace visited='N'>Ullswater</cdplace>.
+Its lowest reach, four miles in length, is before you; and the view terminated by the long ridge of <cdplace visited='N'>Cross Fell</cdplace> in the distance. Immediately
+under the eye is a deep-indented bay, with a plot of fertile land, transversed by a small brook, and rendered cheerful by two or three substantial houses of a more ornamented and 
+showy appearence than is usual in those wild spots.</p>
+
+
+<p>From <cdplace visited='N'>Pooley Bridge</cdplace>, at the foot of the Lake, <cdplace visited='N'>Haweswater</cdplace> may be conveniently visited.
+<cdplace visited='N'>Haweswater</cdplace> is a lesser <cdplace visited='N'>Ullswater</cdplace>, with this advantage, that it remains undefiled by the intrusion of 
+bad taste.</p>
+
+ 
+<p><cdplace visited='N'>Lowther Castle</cdplace> is about four miles from <cdplace visited='N'>Pooley Bridge</cdplace>, and, if during this Tour the Stanger has complained,
+as he will have had reason to do, of a want of majestic trees, he may be abundantly recompensed for his loss in the far-spreading woods that surround the mansion. Visitants,
+for the most part, see little of the beauty of these magnificent grounds, being content with the view from the Terrace; but the whole course of the 
+<cdplace visited='N'>Lowther</cdplace>, from <cdplace visited='N'>Askham</cdplace> to the bridge under <cdplace visited='N'>Brougham Hall</cdplace>, presents almost at every step some new feature of river, woodland, and rocky landscape. A portion of this tract, has, from its beauty, acquired the name of the <cdplace visited='N'>Elysian Fields</cdplace>;-
+but the course of the stream can only be followed by the pedestrian.</p>
+<!--</sub_section>-->
+
+
+</text>
+
+
+
+
+
+
+
