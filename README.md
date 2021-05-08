@@ -12,7 +12,7 @@ The full set of automatically geoparsed files are in _LD80\_geoparsed_.
 
 ## Gold standard subcorpus
 
-This gold standard subset includes a representative sample of 28 texts, which were selected from the different genres and historical periods included in the corpus. Quantitatively, the gold standard subset we compiled comprised approximately 242,000 word tokens: about one-sixth of the entire corpus. This subset was hand checked and coded using XML tags in order to mark every place-name entity it contained. These placename entities included the names of a variety of different regional, national and international locations, landmarks and geographical formations. All of these identified place-name entities were marked-up with a customised tag (<cdplace>). The gold standard subcorpus is available in _gold\_standard_.
+This gold standard subset includes a representative sample of 28 texts, which were selected from the different genres and historical periods included in the corpus. Quantitatively, the gold standard subset we compiled comprised approximately 242,000 word tokens: about one-sixth of the entire corpus. This subset was hand checked and coded using XML tags in order to mark every place-name entity it contained. These placename entities included the names of a variety of different regional, national and international locations, landmarks and geographical formations. All of these identified place-name entities were marked-up with a customised tag (\<cdplace\>). The gold standard subcorpus is available in _gold\_standard_.
 
 ## Metadata
 
